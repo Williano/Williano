@@ -27,7 +27,7 @@ In his free time, William writes articles on [Medium](https://medium.com/@paawil
 
 Technical proficiency include:
 
-- **Technology Stack:** [Python](Django), [Dart](Flutter), [JavaScript](Vue.js), [C#](Unity), C/C++, Swift
+- **Technology Stack:** (Python)[Django], (Dart)[Flutter], (JavaScript)[Vue.js], (C#)[Unity], C/C++, Swift
 
 - **UI Design:** Draw.io, Figma
 
