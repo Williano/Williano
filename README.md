@@ -1,4 +1,5 @@
-### Hi there 👋
+![582541C3-78A8-4E2E-B4C4-ECB2C363724B](https://user-images.githubusercontent.com/19711677/88672804-80f9de00-d0ad-11ea-94d1-6ee8bb0aff0f.png)
+
 
 <!--
 **Williano/Williano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,4 +21,4 @@ William Kpabitey Kwabla is an experienced Software Engineer and Researcher. Will
 
 A detailed-oriented, responsible and committed engineer, William has designed, implemented and tested complex web, mobile, virtual reality (VR), augmented reality (AR) and machine learning applications using variety of programming languages and technologies. William is also a quick learner with strong problem-solving, leadership, management and communication skills, comfortable working as a team or individually.
 
-In his free time, William writes articles on (Medium)[https://medium.com/@paawilly17)
+In his free time, William writes articles on [Medium](https://medium.com/@paawilly17)
