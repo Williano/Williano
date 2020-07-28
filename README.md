@@ -26,11 +26,18 @@ In his free time, William writes articles on [Medium](https://medium.com/@paawil
 
 
 Technical proficiency include:
-•	Technology Stack: [Python](Django), [Dart](Flutter), [JavaScript](Vue.js), [C#](Unity), C/C++, Swift
-•	UI Design: Draw.io, Figma
-•	Databases: MySQL, PostgreSQL, SQLite, MongoDB
-•	API Specs: REST
-•	DevOps: Git, Docker, Kubernetes, Codemagic, GitHub Actions, Heroku, Google Cloud Platform(GCP)
-•	Other Skills: Git, Machine Learning, Data Mining, Google Analytics, Search Engine Optimization (SEO), WordPress, Bootstrap, HTML/CSS, VR/AR
-•	Operating Systems: Windows, Linux, macOS
-•	Methodologies: CI/CD, Agile Software Development, Object-Oriented Programming (OOP), Distributed Systems, Test-driven Development, Engineering Best Practices
+- Technology Stack: [Python](Django), [Dart](Flutter), [JavaScript](Vue.js), [C#](Unity), C/C++, Swift
+
+- UI Design: Draw.io, Figma
+
+- Databases: MySQL, PostgreSQL, SQLite, MongoDB
+
+- API Specs: REST
+
+- DevOps: Git, Docker, Kubernetes, Codemagic, GitHub Actions, Heroku, Google Cloud Platform(GCP)
+
+- Other Skills: Git, Machine Learning, Data Mining, Google Analytics, Search Engine Optimization (SEO), WordPress, Bootstrap, HTML/CSS, VR/AR
+
+- Operating Systems: Windows, Linux, macOS
+
+- Methodologies: CI/CD, Agile Software Development, Object-Oriented Programming (OOP), Distributed Systems, Test-driven Development, Engineering Best Practices
