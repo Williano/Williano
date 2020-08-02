@@ -44,7 +44,7 @@ Technical proficiency include:
 
 - **DevOps:** Git, Docker, Kubernetes, Codemagic, GitHub Actions, Heroku, Google Cloud Platform(GCP)
 
-- **Other Skills:** Data Mining, Google Analytics, Search Engine Optimization (SEO), Bootstrap, HTML/CSS, 
+- **Other Skills:** Data Mining, Google Analytics, Search Engine Optimization (SEO), HTML/CSS, Bootstrap, Tailwind CSS 
 
 - **Operating Systems:** Windows, Linux, macOS
 
