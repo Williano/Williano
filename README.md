@@ -16,8 +16,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<a href="#">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Williano&show_icons=true&count_private=true&theme=onedark"  width=100%
+  height=auto />
+</a>
 
-William Kpabitey Kwabla is an experienced Software Engineer and Researcher. William is currently studying Computer Science at Masters level at the University of Central Arkansas, United States after previously completing his BSc in Computer Science at Kwame Nkrumah University of Science and Technology, Kumasi, Ghana.
+<br />
+<br />
+
+<p> William Kpabitey Kwabla is an experienced Software Engineer and Researcher. William is currently studying Computer Science at Masters level at the University of Central Arkansas, United States after previously completing his BSc in Computer Science at Kwame Nkrumah University of Science and Technology, Kumasi, Ghana.
 
 A detailed-oriented, responsible and committed engineer, William has designed, implemented and tested complex web, mobile, virtual reality (VR), augmented reality (AR) and machine learning applications using variety of programming languages and technologies. William is also a quick learner with strong problem-solving, leadership, management and communication skills, comfortable working as a team or individually.
 
@@ -42,3 +49,5 @@ Technical proficiency include:
 - **Operating Systems:** Windows, Linux, macOS
 
 - **Methodologies:** CI/CD, Agile Software Development, Object-Oriented Programming (OOP), Distributed Systems, Test-driven Development, Engineering Best Practices
+
+</p>
