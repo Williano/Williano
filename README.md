@@ -21,7 +21,6 @@ Here are some ideas to get you started:
 </a>
 
 <br />
-<br />
 
 
 <p> William Kpabitey Kwabla is an experienced Software Engineer and Researcher. William is currently studying Computer Science at Masters level at the University of Central Arkansas, United States after previously completing his BSc in Computer Science at Kwame Nkrumah University of Science and Technology, Kumasi, Ghana.
