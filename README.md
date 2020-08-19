@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 </a>
 
 
-### Bio
+## Bio
 
 <p> William Kpabitey Kwabla is an experienced Software Engineer and Researcher. William is currently studying Computer Science at Masters level at the University of Central Arkansas, United States after previously completing his BSc in Computer Science at Kwame Nkrumah University of Science and Technology, Kumasi, Ghana.
 
@@ -35,10 +35,12 @@ A detailed-oriented, responsible and committed engineer, William has designed, i
 
 In his free time, William writes articles on [Medium](https://medium.com/@paawilly17) and contribute to the [Open-Source community](https://github.com/Williano?tab=repositories).
 
+</p>
 
+## Languages and Tools
 
-### Languages and Tools
-
+<p>
+  
 - **Technology Stack:** Python[Django, Machine Learning], Dart[Flutter], JavaScript[Vue.js], C#[Unity, VR, AR, MR], PHP[WordPress], C/C++, Swift
 
 - **UI Design:** Draw.io, Figma
@@ -58,7 +60,8 @@ In his free time, William writes articles on [Medium](https://medium.com/@paawil
 </p>
 
 
-### Connect with me:
+## Connect with me:
+
 
 [<img align="left" alt="Williano" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Williano | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -70,4 +73,5 @@ In his free time, William writes articles on [Medium](https://medium.com/@paawil
 [twitter]: https://twitter.com/_Williano7
 [instagram]: https://www.instagram.com/william.kwabla/
 [linkedin]: https://www.linkedin.com/in/kwabla/
+
 
