@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 <a href="#">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Williano&show_icons=true&count_private=true&theme=radical"  width=100%
   height=auto />
-</a>
 
 <br>
 <br>
-<p></p>
+
+</a>
 
 
 ### Bio
