@@ -51,3 +51,18 @@ Technical proficiency include:
 - **Methodologies:** CI/CD, Agile Software Development, Object-Oriented Programming (OOP), Distributed Systems, Test-driven Development, Engineering Best Practices
 
 </p>
+
+
+### Connect with me:
+
+[<img align="left" alt="Williano" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="Williano | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Williano | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Williano | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+
+[website]: https://williano.github.io/
+[twitter]: https://twitter.com/_Williano7
+[instagram]: https://www.instagram.com/william.kwabla/
+[linkedin]: https://www.linkedin.com/in/kwabla/
+
