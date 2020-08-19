@@ -16,13 +16,18 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
 <a href="#">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Williano&show_icons=true&count_private=true&theme=radical"  width=100%
   height=auto />
 </a>
 
-<br />
+<br>
+<br>
+<p></p>
 
+
+### Bio
 
 <p> William Kpabitey Kwabla is an experienced Software Engineer and Researcher. William is currently studying Computer Science at Masters level at the University of Central Arkansas, United States after previously completing his BSc in Computer Science at Kwame Nkrumah University of Science and Technology, Kumasi, Ghana.
 
@@ -32,7 +37,7 @@ In his free time, William writes articles on [Medium](https://medium.com/@paawil
 
 
 
-Technical proficiency include:
+### Languages and Tools
 
 - **Technology Stack:** Python[Django, Machine Learning], Dart[Flutter], JavaScript[Vue.js], C#[Unity, VR, AR, MR], PHP[WordPress], C/C++, Swift
 
