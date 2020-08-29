@@ -42,7 +42,7 @@ In his free time, William writes articles on [Medium](https://medium.com/@paawil
 
 - **UI Design:** Draw.io, Figma
 
-- **Databases:** MySQL, PostgreSQL, SQLite, MongoDB
+- **Databases:** MySQL, PostgreSQL, SQLite
 
 - **API Specs:** REST
 
