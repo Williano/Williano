@@ -35,19 +35,19 @@ In his free time, William writes articles on [Medium](https://medium.com/@paawil
 
 <p>
   
-- **Technology Stack:** Python[Django, Machine Learning], Dart[Flutter], JavaScript[Vue.js], C#[Unity, VR, AR, MR], PHP[WordPress], C/C++, Swift
+- **Technology Stack:** Python[Django, Machine Learning], C/C++, Dart[Flutter], JavaScript[Vue.js], C#[Unity, VR, AR, MR], PHP[WordPress].
 
-- **UI Design:** Draw.io, Figma
+- **UI Design:** Draw.io, Figma.
 
-- **Databases:** MySQL, PostgreSQL, SQLite
+- **Databases:** MySQL, PostgreSQL, SQLite.
 
-- **API Specs:** REST
+- **API Specs:** REST.
 
-- **DevOps:** Git, Docker, Kubernetes, Codemagic, GitHub Actions, Heroku, Google Cloud Platform(GCP)
+- **DevOps:** Git, Docker, Kubernetes, Codemagic, GitHub Actions, Heroku, Google Cloud Platform(GCP).
 
-- **Other Skills:** Data Mining, Google Analytics, Search Engine Optimization (SEO), HTML/CSS, Bootstrap, Tailwind CSS 
+- **Other Skills:** Data Mining, Google Analytics, Search Engine Optimization (SEO), HTML/CSS, Bootstrap, Tailwind CSS. 
 
-- **Operating Systems:** Windows, Linux, macOS
+- **Operating Systems:** Windows, Linux, macOS.
 
 - **Methodologies:** CI/CD, Agile Software Development, Object-Oriented Programming (OOP), Distributed Systems, Test-driven Development, Engineering Best Practices, Concurrent/Parallel Programming.
 
