@@ -30,7 +30,7 @@ William Kpabitey Kwabla is an experienced Software Engineer and Research & Devel
 
 A detailed-oriented, responsible, and committed engineer, William has designed, implemented, and tested complex web, mobile, virtual reality (VR), augmented reality (AR), and machine learning applications using a variety of programming languages and technologies. William is also a quick learner with strong problem-solving, leadership, management, and communication skills, comfortable working as a team or individually. 
 
-In his free time, William writes articles on [Medium](https://medium.com/@paawilly17) and contributes to the[Open-Source community](https://github.com/Williano?tab=repositories).
+In his free time, William writes articles on [Medium](https://medium.com/@paawilly17) and contributes to the [Open-Source community](https://github.com/Williano?tab=repositories).
 
 </p>
 
