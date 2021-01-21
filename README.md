@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 
 ## Bio
 
+
 <p>
 William Kpabitey Kwabla is an experienced Software Engineer and Research & Development Engineer. William is currently studying Computer Science at the Masters level at the University of Central Arkansas, in the United States after previously completing his BSc in Computer Science at Kwame Nkrumah University of Science and Technology, Kumasi, Ghana.
 
