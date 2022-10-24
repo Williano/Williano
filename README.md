@@ -40,7 +40,7 @@ In his free time, William writes articles on [Medium](https://williano.medium.co
 
 <p>
   
-- **Technology Stack:** Python[Django, Machine Learning], C/C++, Dart[Flutter], JavaScript[Vue.js], C#[Unity, VR, AR, MR], PHP[WordPress].
+- **Technology Stack:** Python[Django, Machine Learning], Java[Spring Boot], Scala, Dart[Flutter], JavaScript[Vue.js], PHP[WordPress].
 
 - **UI Design:** Draw.io, Figma.
 
